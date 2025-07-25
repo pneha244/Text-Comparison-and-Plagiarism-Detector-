@@ -1,0 +1,23 @@
+# Core app
+streamlit
+
+# Text handling & NLP
+scikit-learn
+numpy
+pandas
+
+# File parsing
+python-docx
+python-pptx
+PyMuPDF
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# PDF report generation
+reportlab
+
+# Utilities
+fpdf
